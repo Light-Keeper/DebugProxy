@@ -1,3 +1,4 @@
 rootProject.name = 'debug-proxy'
 
 include 'backend'
+include 'datapipe'
